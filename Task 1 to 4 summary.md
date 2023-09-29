@@ -54,7 +54,7 @@ Answer5. Yes, that can be done using the following command
 git commit -a --allow-empty-message -m ""
 
 _My GitHub repository link is:_
-_https://github.com/ashburn3r/CodeWayy-Github-Series_
+_https://github.com/sarthakschandel/CodeWayy-Github-Series_
 
 #----------DAY-THREE----------#
 
