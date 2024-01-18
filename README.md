@@ -46,7 +46,7 @@ Learning Git and GitHub from scratch.
     
     **Notes by yashika0998 for readme.**
     
-    **Forked and contents used by ashburn3r in his repo readme file.**
+    **Forked and contents used by sarthakschandel in his repo readme file.**
     
   + For italic sentence use one astrick (*). Ex:
    
